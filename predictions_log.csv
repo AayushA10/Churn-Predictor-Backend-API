@@ -1,0 +1,2 @@
+tenure,MonthlyCharges,TotalCharges,gender,SeniorCitizen,Partner,Dependents,Contract,InternetService,prediction
+10,75.5,700.5,Female,0,Yes,No,Month-to-month,Fiber optic,Not Churn
